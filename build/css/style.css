@@ -1,18 +1,72 @@
 
 
 /* ===== Primary Styles ========================================================
-   Author:
+   Author: Stefan Girard
    ========================================================================== */
 
-
-
-
-
-
-
-
-
-
-
-
-
+body {
+	background:#e6f2f6;
+}
+.container {
+	width:70%;
+	margin:0 auto;
+}
+header {
+	width:100%;
+	overflow:hidden;
+	padding:0;
+	margin:20px 0;
+}
+header h1,
+header h2 {
+	float:left;
+	margin:0;
+	font-family: "facitweb",sans-serif;
+	font-size:2em;
+	letter-spacing:-1px;
+	color:#1f2224;
+}
+header h1 {
+	font-weight:700;
+	margin-right:10px;
+}
+header h2 {
+	font-weight:300;
+}
+.quotes {
+	font-family: "rooney-web",sans-serif;
+	clear:both;
+}
+.quotes ul {
+	margin:0;
+	padding:0;
+	-webkit-border-radius: 7px;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	overflow:hidden;
+}
+.quotes ul li {
+	list-style:none;
+}
+.quotes ul li a {
+	display:block;
+	background:#cddadf;
+	color:#646c73;
+	text-decoration:none;
+	width:92%;
+	padding:3% 4%;
+	margin-bottom:1px;
+}
+.quotes ul li a:hover {
+	background:#798085;
+	color:#fff;
+}
+footer {
+	width:100%;
+	font-family: "facitweb",sans-serif;
+	font-size:1em;
+	letter-spacing:-1px;
+	font-weight:300;
+	margin-right:10px;
+	color:#1f2224;
+}
