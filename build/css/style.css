@@ -7,15 +7,18 @@
 body {
 	background:#e6f2f6;
 }
+strong {
+	font-weight:bold;
+}
 .container {
 	width:70%;
 	margin:0 auto;
 }
 header {
-	width:100%;
-	overflow:hidden;
-	padding:0;
-	margin:20px 0;
+		width:100%;
+		overflow:hidden;
+		padding:0;
+		margin:20px 0;
 }
 header h1,
 header h2 {
