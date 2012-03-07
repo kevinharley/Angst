@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"theloop",
+				"theloop: The Loop"
+			],
+			[
+				"get_bl",
+				"get_bloginfo  (function)"
+			],
+			[
+				"php",
+				"php: <?php … ?>"
+			],
+			[
+				"get_per",
+				"get_permalink  (function)"
+			],
+			[
+				"strtot",
+				"strtotime  (function)"
+			],
+			[
+				"background",
+				"background-clip"
+			],
+			[
+				"div",
+				"div  (element)"
+			],
+			[
+				"if",
+				"if: <?php if (…) ?> … <?php endif ?>"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 147.0,
+		"selected_items":
+		[
+			[
+				"user",
+				"Preferences: User Global Settings"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 122.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kevinharley/Dropbox/wallop/backun/build/wp-content/themes/backun_theme/header.php",
+		"/Users/kevinharley/git/Angst/build/index.html",
+		"/Users/kevinharley/git/kjhmedia/README",
+		"/Users/kevinharley/git/bootstrap/README.md",
+		"/Users/kevinharley/Downloads/h5bp-html5-boilerplate-1ac32b7/readme.md",
+		"/Users/kevinharley/Downloads/h5bp-html5-boilerplate-1ac32b7/humans.txt",
+		"/Users/kevinharley/Downloads/h5bp-html5-boilerplate-1ac32b7/crossdomain.xml",
+		"/Users/kevinharley/Downloads/batcharge.py",
+		"/Users/kevinharley/.oh-my-zsh/themes/robbyrussell.zsh-theme",
+		"/Users/kevinharley/.oh-my-zsh/oh-my-zsh.sh",
+		"/Users/kevinharley/Sites/Wedding_Site/wp-content/themes/Identity/style.css",
+		"/Users/kevinharley/Sites/Wedding_Site/wp-comments-post.php",
+		"/Users/kevinharley/Library/Application Support/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/Users/kevinharley/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kevinharley/Sites/Saron_Tours/build/gallery.html",
+		"/Users/kevinharley/Library/Application Support/Sublime Text 2/Packages/User/sftp_remotes/Wedding Server",
+		"/Users/kevinharley/Sites/Saron_Tours/build/sarontours.sublime-project",
+		"/Users/kevinharley/Sites/Saron_Tours/build/contact.html",
+		"/Users/kevinharley/Sites/Saron_Tours/build/sftp-settings.json",
+		"/Users/kevinharley/Library/Application Support/Sublime Text 2/Packages/User/sftp_remotes/Saron Tours Server"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/kevinharley/Sites/wallop_site_v3/build/wordpress/wp-content/themes/wallop"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ZSH_THEME",
+			"ZSH_THEME=\"robbyrussell\"",
+			"excerpt",
+			"first",
+			"catch",
+			"hero"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 23.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"fun",
+				"wp-content/themes/wallop/functions.php"
+			],
+			[
+				"func",
+				"wp-includes/functions.php"
+			],
+			[
+				"sideba",
+				"wp-includes/theme-compat/sidebar.php"
+			],
+			[
+				"footer",
+				"wp-includes/theme-compat/footer.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 252.0,
+	"status_bar_visible": false
+}
